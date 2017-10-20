@@ -3,7 +3,7 @@
 Tant que je ne saute pas le ligne le code, je reste dans le même paragraphe.
 Je peux revenir à la ligne dans le code sans que ça n'affecte le paragraphe.
 
-Pour creer un paragraphe il faut sauter une ligne.
+Pour créer un paragraphe il faut sauter une ligne.
 
 Je peux quand même revenir à la ligne +
 sans changer de paragraphe.
